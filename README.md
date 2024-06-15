@@ -12,8 +12,8 @@ Welcome to the Little Lemon Restaurant project! This is a fully functional web a
 
 To run this project, you need to have the following installed on your system:
 
-- Python 3.x
-- Django 3.x
+- Python 3.12.4
+- Django 5.0.6
 - SQLite (or another database system if you prefer)
 
 ## Installation
@@ -22,7 +22,7 @@ To run this project, you need to have the following installed on your system:
 
     ```bash
     git clone https://github.com/KasunUdayanga/Django_First_Web.git
-    cd little-lemon-restaurant
+    cd LITTLELEMON
     ```
 
 2. **Create a Virtual Environment**:
