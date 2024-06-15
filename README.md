@@ -21,7 +21,7 @@ To run this project, you need to have the following installed on your system:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/little-lemon-restaurant.git
+    git clone https://github.com/KasunUdayanga/Django_First_Web.git
     cd little-lemon-restaurant
     ```
 
@@ -65,8 +65,7 @@ To run this project, you need to have the following installed on your system:
 - `about/`: Django app for the about page.
 - `booking/`: Django app for managing table bookings.
 - `templates/`: HTML templates for rendering pages.
-- `static/`: Static files (CSS, JavaScript, images).
-- `requirements.txt`: List of dependencies.
+- `static/`: Static files (CSS, images).
 - `manage.py`: Django's command-line utility.
 
 ## Configuration
