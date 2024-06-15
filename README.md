@@ -35,7 +35,7 @@ To run this project, you need to have the following installed on your system:
 3. **Install Dependencies**:
 
     ```bash
-    pip install -r requirements.txt
+    pip install django
     ```
 
 4. **Run Migrations**:
